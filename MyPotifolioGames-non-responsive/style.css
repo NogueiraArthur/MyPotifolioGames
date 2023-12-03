@@ -1,0 +1,266 @@
+body{
+  background-color: #e7e6e3;
+  margin: 0;
+}
+
+header
+{
+  color: #F9F9F9;
+  background-color: black;
+  padding: 0%;
+  overflow: hidden;
+}
+
+header li{
+  display: inline;
+  margin: 2%;
+  float: left;
+}
+
+header a{
+  text-decoration: none;
+  color: #F9F9F9;
+  font-weight: bold;
+  font-size: 18px;
+  transition: color 0.25s;
+}
+
+header a:hover{ 
+  color: #d1363a;
+}
+
+#buttoncapahomepag
+{
+  margin-left: 45%;
+  text-decoration: none;
+  color: #F9F9F9;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 100px;
+  background-color: #d1363a;
+  padding: 20px;
+  transition: background-color 0.25s;
+}
+
+#buttoncapahomepag:hover
+{
+  background-color: #2b2a29;
+}
+
+#imgjogo1homepag
+{
+  border-radius: 100px 0 100px 0;
+  margin-left : 15%;
+  text-align: center;
+  margin-bottom: 5%;
+  transition: all 0.25s;
+}
+
+#imgjogo1homepag:hover
+{
+  filter:opacity(50%);
+  transform: scale(1.05);
+}
+
+#imgjogo2homepag
+{
+  border-radius: 100px 0 100px 0;
+  margin-left : 5%;
+  text-align: center;
+  margin-bottom: 5%;
+  transition: all 0.25s;
+}
+
+#imgjogo2homepag:hover
+{
+  filter:opacity(50%);
+  transform: scale(1.05);
+}
+
+#imgjogo3homepag
+{
+  border-radius: 100px 0 100px 0;
+  margin-left : 15%;
+  text-align: center;
+  margin-bottom: 5%;
+  transition: all 0.25s;
+}
+
+#imgjogo3homepag:hover
+{
+  filter:opacity(50%);
+  transform: scale(1.05);
+}
+
+#imgjogo4homepag
+{
+  border-radius: 100px 0 100px 0;
+  margin-left : 5%;
+  text-align: center;
+  margin-bottom: 5%;
+  transition: all 0.25s;
+}
+
+#imgjogo4homepag:hover
+{
+  filter:opacity(50%);
+  transform: scale(1.05);
+}
+
+#imgjogo5homepag
+{
+  border-radius: 100px 0 100px 0;
+  margin-left : 33.5%;
+  text-align: center;
+  transition: all 0.25s;
+}
+
+#imgjogo5homepag:hover
+{
+  filter:opacity(50%);
+  transform: scale(1.05);
+}
+
+footer
+{
+  background-color: #252423;
+  padding: 50px;
+}
+
+footer a
+{
+  text-decoration: none;
+  color: #656462;
+  font-weight: bold;
+  float: right;
+  transition: color 0.25s;
+}
+footer a:hover
+{
+  color: #F9F9F9; 
+}
+
+footer p
+{
+  color: #656462;
+  font-weight: bold;
+  text-align: center;
+  font-size: 18px;
+}
+
+
+
+#video
+{
+  margin-left: 20%;
+}
+
+main h1
+{
+  color: #2b2a29;
+  font-size: 32px;
+}
+
+main h2
+{
+  color: #2b2a29;
+  font-size: 30px;
+}
+
+main p
+{
+  color: #2b2a29;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+#sinopse
+{
+  text-align: center
+}
+
+
+
+#tsimgopenpag
+{
+  position: absolute;
+  margin-left: 42%;
+  margin-top: 1%;
+}
+
+tsimghomepagdiv
+{
+  background-image: url("Images/First%20Game%20IMG41.1.png");
+}
+
+
+
+#eaimgopenpag
+{
+  position: absolute;
+  margin-left: 42%;
+  margin-top: 1%;
+}
+
+eaimghomepagdiv
+{
+  background-image: url("Images/Second%20Game%20IMG2.1.png");
+}
+
+
+
+#imimgopenpag
+{
+  position: absolute;
+  margin-left: 42%;
+  margin-top: 1%;
+}
+
+imimghomepagdiv
+{
+  background-image: url("Images/Third%20Game%20IMG41.1.png");
+}
+
+
+
+#smimgopenpag
+{
+  position: absolute;
+  margin-left: 42%;
+  margin-top: 1%;
+}
+
+smimghomepagdiv
+{
+  background-image: url("Images/Fourth%20Game%20IMG2.1.png");
+}
+
+
+
+#aimgopenpag
+{
+  position: absolute;
+  margin-left: 42%;
+  margin-top: 1%;
+}
+
+aimghomepagdiv
+{
+  background-image: url("Images/Fifth%20Game%20IMG2.1.png");
+}
+
+
+
+#texticon
+{
+  margin-left: 0.4%;
+}
+#texticonC
+{
+  margin-left: 1%;
+}
+#texticonU
+{
+  margin-left: 1%;
+}
+
